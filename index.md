@@ -17,8 +17,8 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: maths <br><strong>for everyone</strong>
-  content: We build provide physical and digital interactive math exhibits for museums
-    and schools.
+  content: We build and provide physical and digital interactive math exhibits for
+    museums and schools.
   cta:
     enabled: true
     url: team@dhimath.org
