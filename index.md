@@ -7,12 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2019/08/24/dhimath-full.svg"
   navigation:
-  - link: "/"
+  - link: "/dhimath-web"
     link_text: Home
-  - link: "#"
-    link_text: Features
-  - link: "#"
-    link_text: Pricing
   - link: "#"
     link_text: Team
   cta:
