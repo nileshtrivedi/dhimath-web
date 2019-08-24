@@ -16,13 +16,13 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: maths <br><strong>for everyone</strong>
+  content: We build provide physical and digital interactive math exhibits for museums
+    and schools.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
-    button_text: 'See on GitHub '
+    url: team@dhimath.org
+    button_text: Get in touch
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
