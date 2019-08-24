@@ -4,7 +4,7 @@ author: ''
 email: team@dhimath.org
 description: We offer physical and digital, interactive exhibits for museums, schools
   etc.
-baseurl: "/dhimath-web"
+baseurl: ''
 url: ''
 defaults:
 - scope:
