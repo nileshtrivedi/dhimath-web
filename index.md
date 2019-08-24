@@ -24,7 +24,7 @@ page_sections:
     url: team@dhimath.org
     button_text: Get in touch
   image:
-    image: "/uploads/2018/06/21/product-shot-1.png"
+    image: "/uploads/2019/08/24/roman_candy_0_0.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: content-feature
