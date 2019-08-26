@@ -8,7 +8,6 @@ image_1:
 image_2:
   image: ''
   caption: ''
-published: false
 
 ---
 **Welcome to the World of Joyful Mathematics**
