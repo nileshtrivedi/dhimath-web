@@ -8,6 +8,11 @@ image_1:
 image_2:
   image: ''
   caption: ''
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home1
 
 ---
 **Welcome to the World of Joyful Mathematics**
