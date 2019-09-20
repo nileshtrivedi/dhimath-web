@@ -1,11 +1,11 @@
 ---
 layout: blocks
-title: Homepage
+title: Welcome to the Joyful World of Mathematics
 date: 2017-11-22T23:00:00.000+00:00
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2019/08/24/dhimath-full.svg"
+  logo: "/uploads/2019/08/26/Logo DhiMath.jpg"
   navigation:
   - link: "/dhimath-web"
     link_text: Home
@@ -30,6 +30,15 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Built with ❤︎ in Bengaluru, India.
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+published: false
 
 ---
 foo bar
