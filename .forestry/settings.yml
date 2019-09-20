@@ -5,6 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
+  path: ''
+  label: Document
+  match: "**/*"
+  read_only: true
+- type: document
   path: FORESTRY-README.md
   label: Welcome - First Steps
   read_only: true
