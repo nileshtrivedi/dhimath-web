@@ -33,7 +33,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
+  headline: DhiMath
   content: ''
   media:
     image: ''
