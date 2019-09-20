@@ -1,16 +1,10 @@
 ---
-title: 'DhiMath :: Math Exhibition India'
+title: Welcome to the Joyful World of Mathematics
 author: ''
 email: team@dhimath.org
 description: We offer physical and digital, interactive exhibits for museums, schools
   etc.
 baseurl: ''
 url: ''
-defaults:
-- scope:
-    path: ''
-  values:
-    layout: default
-plugins:
-- jekyll-feed
-- jekyll-menus
+defaults: []
+plugins: []
