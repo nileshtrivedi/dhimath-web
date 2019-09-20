@@ -13,7 +13,6 @@ menu:
     identifier: home
     weight: 1
     title: Home1
-published: false
 
 ---
 **Welcome to the World of Joyful Mathematics**
