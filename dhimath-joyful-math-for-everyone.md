@@ -3,13 +3,9 @@ layout: blocks
 title: DhiMath - joyful math for everyone
 date: 
 page_sections:
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  content: 'Hello and Welcome to the Joyful World of Mathematics. '
+- template: detail-content
+  block: text-1
+  content: "<p>Detailed Content</p>"
   headline: ''
-  media:
-    image: ''
-    alt_text: ''
 
 ---
