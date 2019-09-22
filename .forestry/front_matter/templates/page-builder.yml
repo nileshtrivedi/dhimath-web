@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- events.md
 - index.md
 - team.md
 - dhimath-joyful-math-for-everyone.md
