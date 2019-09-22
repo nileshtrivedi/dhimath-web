@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- models.md
 - events.md
 - index.md
 - team.md
