@@ -29,6 +29,5 @@ page_sections:
   col_3:
     headline: Nilesh Trivedi
     content: Introduction <img src="/uploads/2018/06/21/forestry-symbol.svg">
-published: false
 
 ---
