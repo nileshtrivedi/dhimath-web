@@ -38,8 +38,8 @@ page_sections:
     headline: Anmol Pathak
     content: Introduction<br><img src="/uploads/2018/06/21/forestry-symbol.svg">
   col_3:
-    headline: ''
-    content: ''
+    headline: Sundararaj
+    content: Introduction <br><img src="/uploads/2018/06/21/forestry-symbol.svg">
 - template: 3-column-text
   block: three-column-1
   col_1:
