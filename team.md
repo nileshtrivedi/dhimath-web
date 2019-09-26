@@ -24,8 +24,8 @@ page_sections:
     headline: Kiran Bachche
     content: Introduction<img src="/uploads/2018/06/21/forestry-symbol.svg">
   col_2:
-    headline: ''
-    content: ''
+    headline: Yamuna Natarajan
+    content: Introduction <img src="/uploads/2018/06/21/forestry-symbol.svg">
   col_3:
     headline: ''
     content: ''
