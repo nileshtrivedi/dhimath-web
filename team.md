@@ -43,8 +43,8 @@ page_sections:
 - template: 3-column-text
   block: three-column-1
   col_1:
-    headline: ''
-    content: ''
+    headline: Priyanka Trivedi
+    content: Intoduction<br><img src="/uploads/2018/06/21/forestry-symbol.svg">
   col_2:
     headline: ''
     content: ''
