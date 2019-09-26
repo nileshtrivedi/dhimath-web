@@ -29,5 +29,27 @@ page_sections:
   col_3:
     headline: Nilesh Trivedi
     content: Introduction <img src="/uploads/2018/06/21/forestry-symbol.svg">
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Kashmira
+    content: Introduction<br><img src="/uploads/2018/06/21/forestry-symbol.svg">
+  col_2:
+    headline: Anmol Pathak
+    content: Introduction<br><img src="/uploads/2018/06/21/forestry-symbol.svg">
+  col_3:
+    headline: ''
+    content: ''
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: ''
+    content: ''
+  col_2:
+    headline: ''
+    content: ''
+  col_3:
+    headline: ''
+    content: ''
 
 ---
