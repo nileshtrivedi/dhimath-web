@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: 'THE TEAM '
+title: 'About us  '
 date: 
 page_sections:
 - template: navigation-header-w-button
@@ -12,9 +12,12 @@ page_sections:
     button_text: ''
 - template: content-feature
   block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
+  media_alignment: Left
+  headline: 'OUR VISION '
+  content: 'Create an ecosystem for students wherein they can<br><br>See, Touch and
+    Play with joyous math <br>Experience Joyful mathematics while playing <br>Appreciate
+    the application of math concepts <br>Discover the joy of Math in everything <br>Enrich
+    their mathematical intuition '
   media:
     image: ''
     alt_text: ''
