@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Team
+title: 'THE TEAM '
 date: 
 page_sections:
 - template: navigation-header-w-button
