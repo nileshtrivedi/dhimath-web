@@ -13,7 +13,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: 'OUR VISION '
+  headline: '<strong><span style="text-decoration: underline;">OUR VISION</span></strong>'
   content: 'Create an ecosystem for students wherein they can<br><br>See, Touch and
     Play with joyous math <br>Experience Joyful mathematics while playing <br>Appreciate
     the application of math concepts <br>Discover the joy of Math in everything <br>Enrich
