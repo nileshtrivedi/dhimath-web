@@ -21,6 +21,18 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '<strong><span style="text-decoration: underline;">OUR MISSION</span></strong>'
+  content: 'Come up with physical and virtual mathematical models that the audience
+    can interact with <br>Design innovative mathematical games that the audience can
+    engage with while unfurling the math lying beneath it <br>Create multimedia content
+    to make studying math fun <br><br>and thereby enhancing, empowering and enriching
+    the community with powers that math bestows upon all of us '
+  media:
+    image: ''
+    alt_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
