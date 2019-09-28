@@ -33,6 +33,16 @@ page_sections:
   media:
     image: ''
     alt_text: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: '<strong><span style="text-decoration: underline;">WHAT''S IN STORE </span></strong>'
+  content: 'Math Store - math toys and books <br>Mini Auditorium - talks and workshops
+    <br>Crazy Corner - a myriad of math activities <br>Math Audio Trail - immerse
+    into learning about the peculiarities of mathematicians '
+  media:
+    image: ''
+    alt_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
